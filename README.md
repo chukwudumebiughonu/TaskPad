@@ -56,3 +56,12 @@ Screenshots of the Project 📸
   </a>
   
 ![Image Alt text](/public/boardpage.png)
+
+<p align="center">
+   <a href="">
+     <h1>
+    Card Page 👇
+     </h1>
+  </a>
+  
+![Image Alt text](/public/Cardpage.png)
