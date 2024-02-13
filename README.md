@@ -25,5 +25,6 @@
 * **Prisma**
 * **MySQL**
 * **Stripe**
+* **Clerk** for authentication
   
 Screenshots of the Project 📸
