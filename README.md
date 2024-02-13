@@ -28,3 +28,31 @@
 * **Clerk** for authentication
   
 Screenshots of the Project 📸
+
+<p align="center">
+   <a href="![Image Alt text](/public/homepage.png)">
+     <h1>
+    Home Page 🏡
+     </h1>
+  </a>
+</p>
+
+![Image Alt text](/public/homepage.png)
+
+<p align="center">
+   <a href="">
+     <h1>
+    Organization Page 👇
+     </h1>
+  </a>
+  
+![Image Alt text](/public/organizationpage.png)
+
+<p align="center">
+   <a href="">
+     <h1>
+    Board Page 👇
+     </h1>
+  </a>
+  
+![Image Alt text](/public/boardpage.png)
