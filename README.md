@@ -4,6 +4,7 @@
   TaskPad is a powerful yet user-friendly task management app built for teams and individuals who value clarity, structure, and visual appeal. It helps you streamline your workflow, stay focused on high-priority tasks, and collaborate effectively with others.
 </p>
 
+👉 Live Demo: [Live Demo](https://taskpad-beta.vercel.app)
 
 ## Key Features:
 
@@ -14,3 +15,5 @@
 * **Flexible Growth**: Choose between free and paid plans. The free plan allows for a limited number of boards, while paid subscriptions offer unlimited boards and additional features to scale with your needs.
 * **Modern, Intuitive Design**: Enjoy a beautiful user interface built with shadenUI and TailwindCSS, combining elegance with ease of use.
 * **Robust Foundation**: Tasp is powered by a secure MySQL database and leverages Prisma ORM for efficient data management.
+
+Screenshots of the Project 📸
