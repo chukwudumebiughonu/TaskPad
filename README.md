@@ -16,4 +16,14 @@
 * **Modern, Intuitive Design**: Enjoy a beautiful user interface built with shadenUI and TailwindCSS, combining elegance with ease of use.
 * **Robust Foundation**: Tasp is powered by a secure MySQL database and leverages Prisma ORM for efficient data management.
 
+## Tools and Technonlogy
+* **TypeScript**
+* **Next.js 14**
+* **React.js**
+* **ShadcnUI**
+* **TailwindCSS**
+* **Prisma**
+* **MySQL**
+* **Stripe**
+  
 Screenshots of the Project 📸
