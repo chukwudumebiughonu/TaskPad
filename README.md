@@ -3,7 +3,7 @@
 ## Overview
 TaskPad is a powerful, user-friendly task management application designed to enhance productivity for both teams and individuals. It emphasizes clarity, structure, and visual appeal, helping users streamline their workflows, focus on high-priority tasks, and collaborate effectively with others.
 
-👉 Live Demo: [Live Demo](https://taskpada.vercel.app)
+👉 Live Demo: [Live Demo](https://takspad.vercel.app)
 
 ## Key Features:
 * **Seamless Collaboration**: Create workspaces (organizations) to invite teammates, manage roles, and collaborate on shared goals.
